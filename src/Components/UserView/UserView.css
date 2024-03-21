@@ -1,0 +1,12 @@
+.line{
+    width:350px;
+    height: 6px;
+    background:#e61c1c;
+    border-radius: 9px;
+}
+.phone{
+    width: 28%;
+    padding-left: 60px;
+    
+}
+

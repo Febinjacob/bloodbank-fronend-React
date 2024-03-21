@@ -1,0 +1,10 @@
+.desktopMenuListItem{
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.desktopMenuListItem:hover{
+   
+    
+    border-bottom: 3px solid rgb(255, 34, 0);
+}
